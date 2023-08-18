@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: dd91776d-b2c9-47da-b5ff-37fdb7e6be19
-  WEBAPP-NAME: az400-webapp-arisaggel
+  WEBAPP-NAME: az400-webapp-arisaggel23
 
 
 jobs:
